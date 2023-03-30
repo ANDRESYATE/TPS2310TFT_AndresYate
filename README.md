@@ -17,3 +17,4 @@ git config --global --replace-all user.name
 el nombre y el correo 
 Siempre para guardad hacer un push
 git confi -- global user.name , email gmail.com
+git show sirve para mostrar los ultimos cambios 
