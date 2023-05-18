@@ -74,4 +74,4 @@ algoritmo de diagramas de flujo
 siempre vamos a tener un punto de partida y luego una cantidad de repeticiones y los mas facil es que llegara en una formal lineal y simpre va atener una misma situacion donde se devuelve y toca buscar un punto de salida pero ente un ciclo infito y se la pasa dando giros desde el punto de partida y puede llegar a afcetar el flujo de trabajo que esta trabajando y no se va a ejecutar y tienes que tener cuidado, ahora veamos como podemos utilizar que eran la 00:00:00 y entre las cero y las 23:59:59 se volvia a reiniviar todo y hay esta nuestro objetivo que es llegar al puntpo B y ciclo for esta compuesto por 3 partes, punto de partida, cantidad de interaciones y tenemos un incremento y debe aumentar una o mas y una vez y entonces llegara al punto B, el ciclo while que mienras algo sucede algo va a pasar, vamos a decir que  mientras while n<3, hay uno que lo acompaña que es igual que el whileque es DO while. 
 
 ## Algoritmos con ciclos:
-
+ 
