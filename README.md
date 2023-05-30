@@ -148,33 +148,53 @@ Es el 0123456789 y con ellos podemoscrear un monton de codigos y lo vamos a enco
 ## Conversion entre binario y decimal
 
 ## Suma y resta de binarios
+
 Cuando vallasm a sumar cero masm cero siempre va a hacer cero y nque va a pasar cunado se uno mas uno pero el resultadosea cero ej: 110+001:111 otro ejemplo 110+011:1001
 
 ## Multiplicacion y division de binarios
+
 Es como una multiplicacion con decimaleas,
+
 # Operadores
 
 ## ¿Que son la tablas de verdad?
 
+son una herrmaineta que nos ayuda para ver cuales son las relaciones verdaderas o valido y accede mas rapido entendiendo las condiciones que necesita una situacion flujo de trabajo de algoritmo y s olo sera verdadero cuando ambas sean verdaderas la dinyunsion sera verdadera cunado almenos una de las porpiciociones es verdadera o de lo contrario sera falsa y en este caso cuando las dos son falasa son fsalsas
+
 ## Operadores logicos
+
+es una similitud de lkas tablas de vcerdad positivo o negativo o de que lago puede suceder o no puede seceder operadores logicos, operador no, propisuto deveuelve true cuando la expresuion es falasa, definicon inverter el valor de una informacion.
+operadores logicos, operador Y, proposito devuelve true cuando expresion 1 y esprecion 2 son verdaderas, ejemplo expresion 1 y expresion 2.
+Operador o, devuelve true cuendo expresion 1 o expresion 2 es verasdedra, ejemplo expresion 1 o expresion 2.
+Operador Xor, proposito devuelve true si expresion 1 es verdadera
 
 ## Operadores aritmeticos
 
-# Operaciones de comparacion
+lo que hemos visto oda la vida suma y resta
 
-## Reto 0: Identifica los operadores
+## Operaciones de comparacion
+
+Operador <>, proposito devuelve true si el primer valor es igual que el segundo valor
+
+## Reto 0: Identifica los operadores**
 
 # Algoritmo y diagramas de flujo
 
-## ¿Que es un algoritmo?¿como resolver problemas con algoritmos?
+## ¿Que es un algoritmo?¿**como resolver problemas con algoritmos?
+
+es una sere de pasos que logran un objetivo de la mejor forma, requiere un proceso de analizis, dividir en partes mas pequeñas
 
 ## ¿Que es un diagrama de flujo?
+
+En un diagrama de flujo, se usan símbolos que indican la acción, el significado o la interpretación de cada paso, y se enlazan con líneas de flujo que muestran la dirección o secuencia del proceso.
+ Los diagramas de flujo pueden ayudar a visualizar y comprender procesos simples o complejos, como los que se usan en la programación informática, el desarrollo de tecnología robótica o los procesos industriales.
 
 ## Reto 1 ¿hay dinero en el cajero electronico?
 
 ## Reto :Buscador de ciudades
 
 ## Reto 3: login de usuarios
+
 
 # Proximo pasos
 
