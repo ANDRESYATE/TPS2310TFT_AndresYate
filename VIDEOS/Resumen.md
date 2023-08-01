@@ -1,4 +1,4 @@
-# [Curso frontend Developer](https://platzi.com/clases/2467-frontend-developer/40828-inicia-tu-camino-como-frontend-developer/)
+# [curso frontend Developer](https://platzi.com/clases/2467-frontend-developer/40828-inicia-tu-camino-como-frontend-developer/)
 
 - # INTRODUCCION AL DESARROLLO FRONTED
 - ### Inicia tu camino como fronted developer
