@@ -7,12 +7,15 @@
 
 - ### ¿Que es HTML y CSS?¿Para que sirven?
 significa un mensaje hipetexto y sirve para extructurar toda la pagina web como imagenes o esa estructura inicial  
-- ### Motores de render: de archivos pixeles 
+- ### Motores de render: de archivos pixeles
+Pasar llos archivos a obejetos, calcula el estilo correspondiente a cada modo dom, calcula las dimensiones de cada nudo y donde va la pantalla 
 
 - # MAQUETACION CON HTML
 
-- ### Anatomia de un documento HTML y sus elementos
 
+- ### Anatomia de un documento HTML y sus elementos
+podemos agregar atriubutos para varias cosas y nos ayuda a comunicarnos en html adiccional podemos colocar mas etiquetas
+.
 - ### ¿Que es HTML sematico?
 
 - ### Etiquetas de HTML mas usadas
