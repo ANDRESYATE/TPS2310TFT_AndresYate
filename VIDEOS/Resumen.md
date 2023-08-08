@@ -14,17 +14,20 @@ Pasar llos archivos a obejetos, calcula el estilo correspondiente a cada modo do
 
 
 - ### Anatomia de un documento HTML y sus elementos
-podemos agregar atriubutos para varias cosas y nos ayuda a comunicarnos en html adiccional podemos colocar mas etiquetas
+podemos agregar atriubutos para varias cosas y nos ayuda a comunicarnos en html adiccional podemos colocar mas etiquetas los atributos tambien van a servir, atributo = .... doctype htmil, html lang en, head 
 .
 - ### ¿Que es HTML sematico?
+ayuda a hacer accesible, codigo mas rapido, mejora su posicionamineto 
 
 - ### Etiquetas de HTML mas usadas
+LAYOUT, TEXTOS, FORMULARIOS, ENLACES, IMAGENES Y VIDEOS, LISTAS
 
 - # MAQUETACION CON CSS
 
 - ### Anatomia de una declaracion CSS: Selectores, propiedades y valores
 
 - ### Tipos de selectores: básicos y combinadores
+
 
 - ### Tipos de selectores: pseudoclases y pseudoelementos
 

@@ -195,12 +195,12 @@ En un diagrama de flujo, se usan símbolos que indican la acción, el significad
 
 ## Reto 3: login de usuarios
 
-
 # Proximo pasos
 
 ## toma el curso de pensamiento logico: Tipos de Datos y Estructuras de Control
 
 ## ¿Que es una operacón matematica?
 
-# Reto 3: login de usuario
+# Reto 3:  login de usuario
+
 # [DEVELOPER](https://platzi.com/clases/2467-frontend-developer/40828-inicia-tu-camino-como-frontend-developer/)
