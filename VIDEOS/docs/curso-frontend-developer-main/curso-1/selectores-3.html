@@ -17,18 +17,29 @@
         p:hover {
             color:skyblue
         }
-        
-        div p::nth-child(2) {
-            color:brown
+        p::before {
+            content:"👽";
         }
+        p::after {
+             content:"🎶";   
+        }
+        div p::nth-child(2) {
+            color:black
+        }
+        ::placeholder {
+            color: blueviolet;
+        }  
+        
+
     </style>
 </head>
 <body>
     <p>Hola</p>
     <div>
-        <p>platzi</p>
-        <p>master</p>
+        <p>Yate</p>
+        <p>Andres</p>
         <p>lo mejor</p>
     </div>
+    <INput type="text"placeholder="Yate Andres">
 </body>
-</html>
+</html>      

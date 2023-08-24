@@ -24,12 +24,14 @@ LAYOUT, TEXTOS, FORMULARIOS, ENLACES, IMAGENES Y VIDEOS, LISTAS
 
 - # MAQUETACION CON CSS
 
+
 - ### Anatomia de una declaracion CSS: Selectores, propiedades y valores
 
 - ### Tipos de selectores: básicos y combinadores
 
 
 - ### Tipos de selectores: pseudoclases y pseudoelementos
+
 
 - ### Cascada y especificidad en CSS
 
