@@ -40,6 +40,7 @@ LAYOUT, TEXTOS, FORMULARIOS, ENLACES, IMAGENES Y VIDEOS, LISTAS
 - ### Tipos de display más usados: flexbox y CSS grid
 
 - ### Modelo de caja
+                  
 
 - ### Colapso de márgenes
 
@@ -52,6 +53,7 @@ LAYOUT, TEXTOS, FORMULARIOS, ENLACES, IMAGENES Y VIDEOS, LISTAS
 - # DISEÑO RESPONSIVO
 
 - ### Unidades de medida
+
 
  - ### ¡Es tu turno: crea un tutorial!
 

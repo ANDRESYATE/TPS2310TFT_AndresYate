@@ -12,27 +12,29 @@
     }
     .card {
         width: 300px;
-        height: 300px;
+        height: 350px;
         background: greenyellow;
         border-radius: 20px;
+        overflow: hidden;
     }
     .card img {
-        width: 300%;
-        display: flex;
-        justify-content: center;
+        width: 300px; 
     }
-    .car p {
+    .card p {  
         text-align: center;
+    }
+    .car p :nth-child(3) {
+        color: blue
     }
 </style>
 </head>
-<body>
-    <section>
-    <div class="dog"></div>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaXrWM852qoGBf3dxIQGq397YLrERD7DxyQ&usqp=CAU" alt="dog">
-        <p>Que lindo perro</p>
-        <p>GUAUUUUUUU</p>
-    </div> 
+  <body>
+     <section>
+        <div class="card">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaXrWM852qoGBf3dxIQGq397YLrERD7DxyQ&usqp=CAU" alt="img">
+          <p>Perro: Zeus</p>
+          <p>Esta melo</p>
+        </div> 
     </section>
 </body>
 </html>
