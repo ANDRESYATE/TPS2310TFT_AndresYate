@@ -20,8 +20,13 @@
 
 * Diagrama ER
 
+
 * Diagrama Físico: tipos de datos y constraints
+
+TIPOS DE DATOS: texto, numeros, fecha/hora, logicos 
 * Diagrama Físico: normalización
+
+Cumple       
 * Formas normales en Bases de Datos relacionales
 * Diagrama Físico: normalizando Platziblog
 
